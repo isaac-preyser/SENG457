@@ -1,0 +1,14 @@
+name: qiskit-jupyter
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyter
+  - ipykernel
+  - qiskit
+  - qiskit-aer
+  - qiskit-ibm-runtime
+  - matplotlib
+  - numpy
+  - scipy
+  - qutip
