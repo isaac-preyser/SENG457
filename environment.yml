@@ -12,3 +12,7 @@ dependencies:
   - numpy
   - scipy
   - qutip
+  - pennylane>=0.36
+  - autoray>=0.6.12
+  - python-dotenv
+  - nbconvert[webpdf]

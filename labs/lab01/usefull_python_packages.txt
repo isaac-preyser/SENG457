@@ -1,0 +1,33 @@
+# ============================================================
+# Packages to install inside the created conda environment
+# (run these commands in Anaconda Prompt / CMD after activating
+#  the desired environment)
+# ============================================================
+
+# Package manager (pip is usually included by default in conda)
+conda install pip
+
+# Jupyter Notebook support
+conda install notebook
+
+
+# ============================================================
+# Packages to install inside the Jupyter Notebook environment
+# (or via pip after activating the conda environment)
+# ============================================================
+
+# Numerical computation and visualization
+pip install numpy
+pip install matplotlib
+
+# Qiskit and quantum simulation libraries
+pip install qiskit
+pip install qiskit-aer
+pip install qiskit-ibm-runtime
+
+# PennyLane (quantum machine learning framework)
+pip install pennylane
+
+# Other utility packages
+pip install pylatexenc
+pip install charset-normalizer
