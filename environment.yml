@@ -17,3 +17,5 @@ dependencies:
   - python-dotenv
   - nbconvert[webpdf]
   - pylatexenc
+  - pdflatex
+  - qutip
