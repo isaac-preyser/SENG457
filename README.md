@@ -2,4 +2,4 @@
 
 This repository contains my notes, experiments, labs and other thoughts that together document my learning journey in SENG457: Quantum Algorithms and Software Engineering. 
 
-This is repository is spiritual successor to my previous workbook collection from [PHYS223](https://github.com/isaac-preyser/PHYS223).
+This is repository is spiritual successor to my previous workbook collection from [PHYS223](https://github.com/isaac-preyser/PHYS223), however this time around I aim to greatly increase the amount of commentary surrounding the notes to be more useful in later courses and work engagements. 
