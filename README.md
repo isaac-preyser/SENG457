@@ -1,4 +1,4 @@
-# SENG 457: Quantum Algorithms and Software Engineering
+# SENG457/CSC557: Quantum Algorithms and Software Engineering
 
 This repository contains my notes, experiments, labs and other thoughts that together document my learning journey in SENG457: Quantum Algorithms and Software Engineering. 
 
