@@ -1,0 +1,9 @@
+feb 23
+
+- How do we generate a phase oracle $O_f$? We always "recieve" an oracle (that is effectively a black box), but in real life we will need to generate these oracles 
+  to encode (or mark) the solution we desire (i.e., our search term). Is there some "quantum compiler", or other algortithm to assist with this generation, or do we need
+  to create bespoke oracles for every search operation we wish to perform? 
+
+  Especially as our search space N increases, we need more and more qubits (n = log_2[N]) to facilitate a larger and larger superpostion. This means our oracle will consist of more gates put together by the
+  Kronecker Product. 
+
